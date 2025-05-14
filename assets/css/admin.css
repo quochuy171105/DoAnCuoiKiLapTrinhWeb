@@ -1,0 +1,41 @@
+/* Kiểu dáng cơ bản cho admin panel */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-dark .navbar-brand {
+    font-weight: bold;
+    color: #fff;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #343a40;
+}
+
+.card {
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.card-title {
+    font-weight: bold;
+    color: #343a40;
+}
+
+.table {
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.table thead th {
+    background-color: #343a40;
+    color: white;
+    border-color: #454d55;
+}
+
+footer {
+    margin-top: 30px;
+}
