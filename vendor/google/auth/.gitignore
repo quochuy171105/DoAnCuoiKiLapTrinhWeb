@@ -1,3 +1,4 @@
 *~
 vendor
 composer.lock
+vendor/google/auth/tests/fixtures/private.pem
